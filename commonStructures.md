@@ -32,7 +32,7 @@
 								<button>Letra</button>
 							</a> </div>
 							
-						<div><input type="button" value="Imprime esta pagina" onclick="window.print()"></div>
+						<div><input type="button" value="Descargar" onclick="window.print()"></div>
 					</div>
 
 ```
