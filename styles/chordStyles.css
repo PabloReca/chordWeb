@@ -16,8 +16,18 @@ p {
     margin: 20;
 }
 
-button{
+button {
     font-family: 'Raleway', sans-serif;
+    margin-bottom: 5%;
+    width: 100%;
+    font-size: 80%;
+}
+
+input {
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 5%;
+    width: 100%;
+    font-size: 80%;∫
 }
 
 .chord {
@@ -50,4 +60,12 @@ button{
 
 .page p {
     padding-bottom: 0.5em;
+}
+
+.actionButtons {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+
+
 }
