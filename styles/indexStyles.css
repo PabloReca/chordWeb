@@ -1,5 +1,36 @@
-body{
+body {
     font-family: 'Raleway', sans-serif;
     color: #464646;
-    font-size: 14pt;
+    font-size: 180%;
+    margin-top: 3%;
+    margin-left: 8%;
+}
+
+
+table,
+th,
+td {
+    margin-top: 2%;
+    border: 1px solid;
+    text-align: center;
+
+}
+
+table{
+    border-collapse: collapse;
+    text-indent: initial;
+    width: auto;
+}
+
+th,
+td {
+    margin: 15px;
+    padding: 15px;
+
+}
+
+a{
+    font-family: 'Raleway', sans-serif;
+    color: #464646;
+    text-decoration: none;
 }
