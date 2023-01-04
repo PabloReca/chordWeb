@@ -20,28 +20,6 @@ button{
     font-family: 'Raleway', sans-serif;
 }
 
-.chord {
-    padding: 0.15em;
-    position: absolute;
-    margin-top: -1.25em;
-    font-weight: bold;
-    z-index: -10;
-    font-family: 'Helvetica';
-    font-size: 14pt;
-    line-height: 16, 1pt;
-    color: #464646;
-    background-color: #FFFFFF;
-}
-
-.chordline {
-    white-space: pre;
-}
-
-.chordline .chord {
-    position: relative;
-    margin-top: 0;
-    z-index: 0;
-}
 
 .metadata {
     float: right;

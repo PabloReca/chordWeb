@@ -1,6 +1,5 @@
 body {
-    font-family: 'Raleway', sans-serif;
-    color: #464646;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 14pt;
     border: solid 1px #666;
     width: 8.5in;
@@ -13,11 +12,12 @@ h2 {
 }
 
 p {
-    margin: 0;
+    margin: 20;
 }
 
-button{
-    font-family: 'Raleway', sans-serif;
+.chordline{
+    margin: -100;
+    padding: 10000;
 }
 
 .chord {
@@ -29,7 +29,7 @@ button{
     font-family: 'Helvetica';
     font-size: 14pt;
     line-height: 16, 1pt;
-    color: #464646;
+    color: #D00000;
     background-color: #FFFFFF;
 }
 
